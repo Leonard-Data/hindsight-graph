@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Hindsight 记忆图谱",
+    "description": "以图谱方式查看本项目的 Hindsight 记忆：记忆单元及其语义、时间与实体关联，并可切换到实体共现视图。"
+  }
+}
